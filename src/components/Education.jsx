@@ -1,3 +1,5 @@
+import Lottie from "lottie-react";
+import education from "../assets/lottie/Education.json";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
