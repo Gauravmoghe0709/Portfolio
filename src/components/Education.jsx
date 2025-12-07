@@ -1,4 +1,3 @@
-import Lottie from "lottie-react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
