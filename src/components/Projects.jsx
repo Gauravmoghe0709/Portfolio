@@ -2,8 +2,8 @@ import Project_prop from "./Project_prop";
 import {
   GPT4,
   Portfolio,
-  ai,
-  musicplayer,
+   Aicaption,
+  Musicplayer,
 } from "../constants/Constant";
 import Tooltip from "@mui/material/Tooltip";
 import IconButton from "@mui/material/IconButton";
@@ -107,7 +107,7 @@ const Projects = () => {
           <Project_prop
             title="Moody Player"
             para="I’m a frontend developer who enjoys mixing mood, creativity, and clean coding"
-            img={musicplayer}
+            img={Musicplayer}
             link=""
             github_link="https://github.com/Gauravmoghe0709/Moody-Player"
             javascript={
@@ -143,7 +143,7 @@ const Projects = () => {
           <Project_prop
             title="Ai Caption Generator"
             para="I developed an AI Caption Generator that creates fast and creative captions using AI intelligence"
-            img={ai}
+            img={Aicaption}
             link=""
             github_link="https://github.com/Gauravmoghe0709/Ai-Caption-Generator"
             nodejs={

@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { SiGithub } from "react-icons/si";
 import { SlLink } from "react-icons/sl";
 
