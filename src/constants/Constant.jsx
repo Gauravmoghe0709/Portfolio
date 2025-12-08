@@ -7,13 +7,13 @@ import Git from "../assets/Git.png";
 import Vite from "../assets/Vite.png";
 import TailwindCSS from "../assets/TailwindCSS.png";
 import reactlogo from "../assets/React.png";
-import Vue from "../assets/vue.png";
+import Vue from "../assets/Vue.png";
 import NMU from "../assets/KBCNMU.png"
-import musicplayer from "../assets/music-player.png"
-import express from "../assets/expressjs.png"
-import mongodb from "../assets/mongodb.png"
-import ai from "../assets/ai caption.jpg"
-import nodejs from "../assets/nodejs.png"
+import musicplayer from "../assets/Music-player.png"
+import express from "../assets/Expressjs.png"
+import mongodb from "../assets/Mongodb.png"
+import ai from "../assets/Ai-caption.jpg"
+import nodejs from "../assets/Nodejs.png"
 
 import GPT4 from "../assets/gpt4.jpg";
 import Portfolio from "../assets/portfolio.jpg";
