@@ -10,9 +10,9 @@ import reactlogo from "../assets/React.png";
 import Vue from "../assets/Vue.png";
 import NMU from "../assets/KBCNMU.png"
 import Musicplayer from "../assets/Musicplayer.png"
-import Express from "../assets/Expressjs.png"
+import Expressjs from "../assets/Expressjs.png"
 import Mongodb from "../assets/Mongodb.png"
-import Ai from "../assets/Aicaption.jpg"
+import Aicaption from "../assets/Aicaption.jpg"
 import Nodejs from "../assets/Nodejs.png"
 
 import GPT4 from "../assets/gpt4.jpg";
@@ -36,8 +36,8 @@ export {
   Rocket,
   NMU,
   Musicplayer,
-  Express,
+  Expressjs,
   Mongodb,
-  Ai,
+  Aicaption,
   Nodejs
 };
