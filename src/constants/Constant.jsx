@@ -1,23 +1,21 @@
-import HTML from "../assets/HTML.png";
-import Github from "../assets/Github.png";
-import CSS from "../assets/CSS.png";
-import Python from "../assets/Python.png";
-import Javascript from "../assets/Javascript.png";
-import Git from "../assets/Git.png";
-import Vite from "../assets/Vite.png";
-import TailwindCSS from "../assets/TailwindCSS.png";
-import reactlogo from "../assets/React.png";
-import Vue from "../assets/Vue.png";
-import NMU from "../assets/KBCNMU.png"
-import Musicplayer from "../assets/Musicplayer.png"
-import Expressjs from "../assets/Expressjs.png"
-import Mongodb from "../assets/Mongodb.png"
-import Aicaption from "../assets/Aicaption.jpg"
-import Nodejs from "../assets/Nodejs.png"
+import HTML from "../images/HTML.png";
+import Github from "../images/Github.png";
+import CSS from "../images/CSS.png";
+import Javascript from "../images/Javascript.png";
+import Git from "../images/Git.png";
+import Vite from "../images/Vite.png";
+import TailwindCSS from "../images/TailwindCSS.png";
+import reactlogo from "../images/React.png";
+import NMU from "../images/KBCNMU.png"
+import Musicplayer from "../images/Musicplayer.png"
+import Expressjs from "../images/Expressjs.png"
+import Mongodb from "../images/Mongodb.png"
+import Aicaption from "../images/Aicaption.jpg"
+import Nodejs from "../images/Nodejs.png"
 
-import GPT4 from "../assets/gpt4.jpg";
-import Portfolio from "../assets/Portfolio.jpg";
-import Rocket from "../assets/Rocket.jpg";
+import GPT4 from "../images/gpt4.jpg";
+import Portfolio from "../images/Portfolio.jpg";
+
 
 
 export {
@@ -28,12 +26,9 @@ export {
   Vite,
   TailwindCSS,
   reactlogo,
-  Python,
   Javascript,
-  Vue,
   GPT4,
   Portfolio,
-  Rocket,
   NMU,
   Musicplayer,
   Expressjs,
