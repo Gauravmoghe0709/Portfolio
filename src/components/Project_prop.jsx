@@ -28,7 +28,7 @@ const Project_prop = (props) => {
                 {props.css3}
                 {props.javascript}
                 {props.tailwindcss}
-                {props.React}
+                {props.react}
                 {props.vite}
                 {props.express}
                 {props.mongodb}

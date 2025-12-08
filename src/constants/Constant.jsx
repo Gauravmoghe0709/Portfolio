@@ -6,7 +6,7 @@ import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
 import Vite from "../assets/Vite.png";
 import TailwindCSS from "../assets/TailwindCSS.png";
-import React from "../assets/React.png";
+import react from "../assets/react.png";
 import Vue from "../assets/vue.png";
 import NMU from "../assets/KBCNMU.png"
 import musicplayer from "../assets/music-player.png"
@@ -27,7 +27,7 @@ export {
   Git,
   Vite,
   TailwindCSS,
-  React,
+  react,
   Python,
   Javascript,
   Vue,
