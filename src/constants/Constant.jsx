@@ -9,10 +9,10 @@ import TailwindCSS from "../assets/TailwindCSS.png";
 import reactlogo from "../assets/React.png";
 import Vue from "../assets/Vue.png";
 import NMU from "../assets/KBCNMU.png"
-import musicplayer from "../assets/Music-player.png"
+import musicplayer from "../assets/Musicplayer.png"
 import express from "../assets/Expressjs.png"
 import mongodb from "../assets/Mongodb.png"
-import ai from "../assets/Ai-caption.jpg"
+import ai from "../assets/Aicaption.jpg"
 import nodejs from "../assets/Nodejs.png"
 
 import GPT4 from "../assets/gpt4.jpg";
