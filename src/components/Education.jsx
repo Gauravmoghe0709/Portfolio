@@ -3,7 +3,7 @@ import educationdata from "../assets/lottie/Education.json";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import { NMU } from "../constants/Constant";
+import  NMU  from "../constants/Constant";
 
 const Education = () => {
   useEffect(() => {
