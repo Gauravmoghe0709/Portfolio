@@ -6,20 +6,19 @@ import Javascript from "../assets/Javascript.png";
 import Git from "../assets/Git.png";
 import Vite from "../assets/Vite.png";
 import TailwindCSS from "../assets/TailwindCSS.png";
-
-import reactlogo from "../assets/react.png";
+import reactlogo from "../assets/React.png";
 import Vue from "../assets/Vue.png";
-
-import NMU from "../assets/KBCNMU.png";
-import musicplayer from "../assets/music-player.png"; 
-import express from "../assets/expressjs.png";
-import mongodb from "../assets/mongodb.png";
-import ai from "../assets/ai caption.jpg";
-import nodejs from "../assets/nodejs.png";
+import NMU from "../assets/KBCNMU.png"
+import Musicplayer from "../assets/Musicplayer.png"
+import Express from "../assets/Expressjs.png"
+import Mongodb from "../assets/Mongodb.png"
+import Ai from "../assets/Aicaption.jpg"
+import Nodejs from "../assets/Nodejs.png"
 
 import GPT4 from "../assets/gpt4.jpg";
-import Portfolio from "../assets/portfolio.jpg";
+import Portfolio from "../assets/Portfolio.jpg";
 import Rocket from "../assets/Rocket.jpg";
+
 
 export {
   HTML,
@@ -36,9 +35,9 @@ export {
   Portfolio,
   Rocket,
   NMU,
-  musicplayer,
-  express,
-  mongodb,
-  ai,
-  nodejs
+  Musicplayer,
+  Express,
+  Mongodb,
+  Ai,
+  Nodejs
 };
