@@ -46,7 +46,7 @@ const Projects = () => {
             img={Portfolio}
             link=""
             github_link=""
-            react={
+            React={
               <Tooltip title="React" arrow>
                 <IconButton>
                   <SiReact className="dark:text-slate-200 text-black" />
@@ -74,7 +74,7 @@ const Projects = () => {
             img={GPT4}
             link="https://chatgpt-backend-jr20.onrender.com/"
             github_link="https://github.com/Gauravmoghe0709/Chatgpt-Backend"
-            react={
+            React={
               <Tooltip title="React" arrow>
                 <IconButton>
                   <SiReact className="dark:text-slate-200 text-black" />
