@@ -5,7 +5,7 @@ import Javascript from "../images/Javascript.png";
 import Git from "../images/Git.png";
 import Vite from "../images/Vite.png";
 import TailwindCSS from "../images/TailwindCSS.png";
-import reactlogo from "../images/React.png";
+import reactlogo from "../images/react.png";
 import NMU from "../images/KBCNMU.png"
 import Musicplayer from "../images/Musicplayer.png"
 import Expressjs from "../images/Expressjs.png"
