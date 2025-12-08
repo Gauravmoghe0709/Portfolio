@@ -13,12 +13,13 @@ import Mongodb from "../images/Mongodb.png"
 import Aicaption from "../images/Aicaption.jpg"
 import Nodejs from "../images/Nodejs.png"
 
-import GPT4 from "../images/gpt4.jpg";
+import GPT4 from "../images/Gpt4.jpg";
 import Portfolio from "../images/Portfolio.jpg";
 
 
 
 export {
+  
   HTML,
   CSS,
   Github,
