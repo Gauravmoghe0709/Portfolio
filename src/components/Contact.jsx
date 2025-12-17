@@ -89,7 +89,7 @@ const Contact = () => {
             </div>
             <div className="flex gap-5 max-sm:justify-center">
               <button className="py-3 px-4 bg-gradient-to-t dark:from-cyan-500 dark:to-slate-300  from-blue-600 to-cyan-600 font-medium text-[12px] text-[#e1e1e1] dark:text-black outline-none mt-10 mr-3 rounded ">
-                <a href="/resume.pdf"
+                <a href="/gaurav moghe mern.pdf"
                   target="_blank"
                 >Resume</a>
               </button>
